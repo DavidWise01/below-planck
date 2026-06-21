@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Un-Image",
+  "universe": "SUB · The Un-Image (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Un-Image:SUB:d36f2a⟧",
+  "carbon": "the-un-image.carbon.tiff (TIFF)",
+  "silicon": "the-un-image.silicon.png (PNG)",
+  "seal_sha256": "4be4c1b80697b44c4c68689995a4bd4900d3b80cc6d69844f11a3eb177ce005e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

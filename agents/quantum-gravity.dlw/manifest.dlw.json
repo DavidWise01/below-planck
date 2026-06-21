@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Quantum Gravity",
+  "universe": "SUB · Quantum Gravity (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦Quantum Gravity:SUB:e85ffa⟧",
+  "carbon": "quantum-gravity.carbon.tiff (TIFF)",
+  "silicon": "quantum-gravity.silicon.png (PNG)",
+  "seal_sha256": "230c6374d09e5d6de80b559bd1f7934565130f25718edbbe353b1373c0671333",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

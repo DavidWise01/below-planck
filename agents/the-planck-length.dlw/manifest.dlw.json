@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Planck Length",
+  "universe": "SUB · The Planck Length (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Planck Length:SUB:389b01⟧",
+  "carbon": "the-planck-length.carbon.tiff (TIFF)",
+  "silicon": "the-planck-length.silicon.png (PNG)",
+  "seal_sha256": "3f86d2133ef25e146aa020dc3cd1e7bf799bf80f9fa0cb8b03a13a0e7294dd1c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "BELOW PLANCK",
+  "universe": "SUB · BELOW PLANCK (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦BELOW PLANCK:SUB:bca767⟧",
+  "carbon": "below-planck.carbon.tiff (TIFF)",
+  "silicon": "below-planck.silicon.png (PNG)",
+  "seal_sha256": "6990b24c554b88f524039a34b84b8a2334792701d61f840bd8ef4d8af28c74df",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

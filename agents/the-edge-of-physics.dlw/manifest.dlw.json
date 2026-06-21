@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Edge of Physics",
+  "universe": "SUB · The Edge of Physics (techne)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Edge of Physics:SUB:869a9c⟧",
+  "carbon": "the-edge-of-physics.carbon.tiff (TIFF)",
+  "silicon": "the-edge-of-physics.silicon.png (PNG)",
+  "seal_sha256": "c55a7443375bfd45f77e3634c6bc8e6e25bd83db09807c0832cf1ec3fb410b15",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
